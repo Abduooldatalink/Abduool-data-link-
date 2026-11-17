@@ -1,0 +1,75 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AB DUOOL DATA LINK</title>
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f0f6ff;
+  color: #12345a;
+}
+header {
+  background: #0756b8;
+  color: white;
+  padding: 22px;
+  text-align: center;
+}
+header h2 { margin: 0; }
+.hero {
+  background: white;
+  margin: 20px;
+  padding: 30px 20px;
+  border-radius: 15px;
+  text-align: center;
+}
+.hero h1 { color: #0756b8; }
+.services {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+  padding: 20px;
+}
+.service {
+  background: white;
+  padding: 25px 10px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 3px 12px #0001;
+}
+.service h3 { color: #0756b8; }
+footer {
+  background: #0756b8;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+<header>
+<h2>⚡ AB DUOOL DATA LINK</h2>
+<p>Fast • Secure • Reliable</p>
+</header>
+
+<section class="hero">
+<h1>Welcome to AB DUOOL DATA LINK</h1>
+<p>Your trusted VTU service platform.</p>
+</section>
+
+<section class="services">
+<div class="service"><h3>📶 Buy Data</h3><p>Affordable data bundles</p></div>
+<div class="service"><h3>📱 Airtime</h3><p>All networks</p></div>
+<div class="service"><h3>⚡ Electricity</h3><p>Pay your bills</p></div>
+<div class="service"><h3>📺 Cable TV</h3><p>DStv, GOtv and more</p></div>
+</section>
+
+<footer>
+<p>© 2026 AB DUOOL DATA LINK</p>
+<p>Thank you for choosing us.</p>
+</footer>
+</body>
+</html>
